@@ -5,11 +5,11 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
- [![João's github stats](https://github-readme-mwendwa.vercel.app/api?username=solerrrr&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ [![Ryan's github stats](https://github-readme-mwendwa.vercel.app/api?username=solerrrr&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=otzjoao&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=solerrrr&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![João Ortiz's current streak](https://streak-stats.demolab.com/?user=solerrrr&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Ryan Soler's current streak](https://streak-stats.demolab.com/?user=solerrrr&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
